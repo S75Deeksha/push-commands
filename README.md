@@ -1,6 +1,6 @@
 # Question 4: Steps of Push Commands in Git
 
-**Name**: Deeksha S  
+**Name**: S Deeksha  
 **Course**: BTech in CSE AIML  
 
 ## Aim
