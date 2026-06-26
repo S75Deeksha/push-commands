@@ -14,3 +14,4 @@ for step, cmd in enumerate(commands, 1):
     print(f"Step {step}: {cmd}")
 
 print("Push complete - Local commits now on GitHub")
+print("Remote repository updated successfully")
